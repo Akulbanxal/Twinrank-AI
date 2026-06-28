@@ -1,0 +1,41 @@
+INFO:     Will watch for changes in these directories: ['/Users/akul/Desktop/Recruit AI/Twinrank AI/backend']
+INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+INFO:     Started reloader process [11562] using WatchFiles
+2026-06-29 00:39:42,880 - twinrank.honeypot - INFO - Initializing HoneypotDetector ensemble...
+2026-06-29 00:39:42,881 - twinrank.skillgraph - INFO - SkillOntologyGraph initialized with 24 canonical nodes.
+2026-06-29 00:39:42,881 - twinrank.ranking - INFO - Initializing DeterministicRankingEngine...
+INFO:     Started server process [11564]
+INFO:     Waiting for application startup.
+2026-06-29 00:39:43,049 - twinrank - INFO - Starting TwinRank AI backend server...
+2026-06-29 00:39:43,049 - twinrank - INFO - ML Models initialized.
+INFO:     Application startup complete.
+INFO:     127.0.0.1:56477 - "GET /api/v1/jobs/candidates HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56482 - "GET /api/v1/jobs/candidates/CAND_0091534 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56540 - "GET /api/v1/jobs/candidates HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56554 - "GET /api/v1/jobs/candidates HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56565 - "GET /api/v1/jobs/candidates/CAND_0055905 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56554 - "GET /api/v1/jobs/candidates HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56567 - "GET /api/v1/jobs/candidates/CAND_0055905 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56569 - "GET /api/v1/jobs/candidates/CAND_0055905 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56572 - "GET /api/v1/jobs/candidates/CAND_0055905 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56573 - "GET /api/v1/jobs/candidates/CAND_0055905 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56575 - "GET /api/v1/jobs/candidates/CAND_0055905 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56580 - "GET /api/v1/jobs/candidates/CAND_0055905 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56582 - "GET /api/v1/jobs/candidates/CAND_0055905 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56606 - "GET /api/v1/jobs/candidates/CAND_0091534 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56620 - "GET /api/v1/jobs/candidates HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56622 - "GET /api/v1/jobs/candidates HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56664 - "GET /api/v1/jobs/candidates HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56664 - "GET /api/v1/jobs/candidates HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56667 - "GET /api/v1/jobs/candidates HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56664 - "GET /api/v1/jobs/candidates HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56689 - "GET /api/v1/jobs/candidates HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56698 - "GET /api/v1/jobs/candidates HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56699 - "GET /api/v1/jobs/candidates HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56699 - "GET /api/v1/jobs/candidates HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56705 - "GET /api/v1/jobs/candidates HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56710 - "GET /api/v1/jobs/candidates/CAND_0091534 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56720 - "GET /api/v1/jobs/candidates HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56721 - "GET /api/v1/jobs/candidates HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56724 - "GET /api/v1/jobs/candidates HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56725 - "GET /api/v1/jobs/candidates HTTP/1.1" 200 OK

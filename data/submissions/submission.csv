@@ -1,0 +1,101 @@
+rank,candidate_id,score,honeypot_probability,confidence_score,why_selected,strengths_summary
+1,CAND_0091534,0.6047,0.15,13.2,"16.6 years experience in AI Engineer with Hugging Face Transformers, scikit-learn, and Diffusion Models. Strong recruiter responsiveness (84%), minor concern: 30-day notice.",Highly responsive to recruiter outreach (84%)
+2,CAND_0093912,0.5988,0.15,9.5,"5.3 years experience in Senior Data Scientist with FastAPI. Strong recruiter responsiveness (66%), minor concern: 30-day notice.",
+3,CAND_0064326,0.594,0.15,0.0,"7.6 years experience in Search Engineer with Python. Strong recruiter responsiveness (94%), minor concern: 45-day notice.",Highly responsive to recruiter outreach (94%)
+4,CAND_0050454,0.5765,0.15,5.1,"6.8 years experience in AI Engineer with PyTorch, LangChain, and QLoRA. Strong recruiter responsiveness (77%), minor concern: 30-day notice.",Transferable skill: 'pytorch' fulfills requirement for 'python'
+5,CAND_0030953,0.5636,0.15,0.0,"7.8 years experience in Search Engineer with Python. Strong recruiter responsiveness (63%), minor concern: 45-day notice.",
+6,CAND_0003977,0.5627,0.15,0.0,"4.6 years experience in Recommendation Systems Engineer with Python. Strong recruiter responsiveness (55%), minor concern: 45-day notice.",
+7,CAND_0075439,0.5602,0.15,6.3,"4.3 years experience in Machine Learning Engineer with Learning to Rank, Feature Engineering, and LoRA. Strong recruiter responsiveness (56%), minor concern: 30-day notice.",
+8,CAND_0055905,0.5568,0.15,2.9,"8.1 years experience in Senior Machine Learning Engineer with Python. Strong recruiter responsiveness (87%), minor concern: 30-day notice.",Highly responsive to recruiter outreach (87%)
+9,CAND_0066999,0.5547,0.15,19.3,"5.9 years experience in Recommendation Systems Engineer with Image Classification, OpenSearch, and JavaScript. Strong recruiter responsiveness (63%).",Transferable skill: 'machine learning' fulfills requirement for 'python'
+10,CAND_0093331,0.5543,0.15,5.6,"16.1 years experience in NLP Engineer with PyTorch, Prompt Engineering, and Accounting. Strong recruiter responsiveness (41%), minor concern: 30-day notice.",Transferable skill: 'pytorch' fulfills requirement for 'python'
+11,CAND_0036863,0.5422,0.15,0.0,"4.3 years experience in Senior Data Scientist with OpenCV, Qdrant, and TTS. Strong recruiter responsiveness (46%), minor concern: 60-day notice.",
+12,CAND_0065878,0.5408,0.15,17.8,"7.8 years experience in Senior Data Scientist with scikit-learn, RAG, and Computer Vision. Strong recruiter responsiveness (48%).",
+13,CAND_0036437,0.5404,0.15,4.1,"4.8 years experience in Search Engineer with Go, Kubeflow, and OpenSearch. Strong recruiter responsiveness (87%), minor concern: 30-day notice.",Highly responsive to recruiter outreach (87%)
+14,CAND_0079284,0.5342,0.15,0.4,"4.9 years experience in Machine Learning Engineer with Recommendation Systems, scikit-learn, and QLoRA. Strong recruiter responsiveness (79%), minor concern: 30-day notice.",
+15,CAND_0032515,0.5337,0.15,0.0,"5.1 years experience in Machine Learning Engineer with MLflow, Milvus, and Vector Search. Strong recruiter responsiveness (54%), minor concern: 45-day notice.",
+16,CAND_0058575,0.5244,0.15,0.0,"5.8 years experience in AI Engineer with MLOps, Machine Learning, and LlamaIndex. Strong recruiter responsiveness (69%), minor concern: 90-day notice.",
+17,CAND_0014440,0.5207,0.15,0.0,"6.4 years experience in Recommendation Systems Engineer with Elasticsearch, Diffusion Models, and Milvus. Strong recruiter responsiveness (64%), minor concern: 60-day notice.",
+18,CAND_0019480,0.516,0.15,0.0,"2.8 years experience in NLP Engineer with Terraform, LLMs, and Forecasting. Strong recruiter responsiveness (87%), minor concern: 90-day notice.",Highly responsive to recruiter outreach (87%)
+19,CAND_0065195,0.5132,0.15,0.0,"5.1 years experience in Search Engineer with LLMs, BentoML, and QLoRA. Strong recruiter responsiveness (80%), minor concern: 45-day notice.",
+20,CAND_0081852,0.5127,0.15,0.0,"5.9 years experience in Senior Data Scientist with Salesforce CRM, Semantic Search, and TTS. Strong recruiter responsiveness (44%), minor concern: 45-day notice.",
+21,CAND_0012957,0.4902,0.15,0.0,"4.9 years experience in Search Engineer with Python. Strong recruiter responsiveness (67%), minor concern: 120-day notice.",
+22,CAND_0075249,0.4827,0.15,0.0,"6.2 years experience in Applied ML Engineer with Sentence Transformers, Milvus, and Machine Learning. Strong recruiter responsiveness (82%), minor concern: 45-day notice.",Highly responsive to recruiter outreach (82%)
+23,CAND_0018549,0.4816,0.15,0.0,"6.8 years experience in Recommendation Systems Engineer with Computer Vision, Weaviate, and Kubernetes. Strong recruiter responsiveness (73%), minor concern: 60-day notice.",
+24,CAND_0018722,0.4806,0.15,0.0,"6.6 years experience in Recommendation Systems Engineer with Python. Strong recruiter responsiveness (79%), minor concern: 90-day notice.",
+25,CAND_0010257,0.4695,0.15,0.0,"6.5 years experience in Senior Data Scientist with Python. Strong recruiter responsiveness (72%), minor concern: 120-day notice.",
+26,CAND_0070202,0.4658,0.15,0.0,"5.1 years experience in Machine Learning Engineer with Microservices, Object Detection, and OpenCV. Strong recruiter responsiveness (60%), minor concern: 90-day notice.",
+27,CAND_0027801,0.4637,0.15,0.0,"7.4 years experience in NLP Engineer with Time Series, FAISS, and Milvus. Strong recruiter responsiveness (65%), minor concern: 120-day notice.",
+28,CAND_0079064,0.4629,0.15,0.0,"5.2 years experience in Senior Data Scientist with Illustrator, LlamaIndex, and OpenSearch. Strong recruiter responsiveness (91%), minor concern: 120-day notice.",Highly responsive to recruiter outreach (91%)
+29,CAND_0089546,0.4471,0.15,0.0,"4.8 years experience in Machine Learning Engineer with Recommendation Systems, Reinforcement Learning, and TensorFlow. Strong recruiter responsiveness (64%), minor concern: 90-day notice.",
+30,CAND_0028793,0.442,0.15,0.0,"7.2 years experience in Search Engineer with SAP, Kubeflow, and Embeddings. Strong recruiter responsiveness (56%), minor concern: 120-day notice.",
+31,CAND_0042100,0.4366,0.15,0.0,"7.3 years experience in Machine Learning Engineer with Elasticsearch, Statistical Modeling, and Learning to Rank. Strong recruiter responsiveness (87%), minor concern: 90-day notice.",Highly responsive to recruiter outreach (87%)
+32,CAND_0061339,0.4294,0.15,0.0,"4.2 years experience in Search Engineer with Information Retrieval, YOLO, and Data Pipelines. Strong recruiter responsiveness (90%), minor concern: 90-day notice.",Highly responsive to recruiter outreach (90%)
+33,CAND_0040648,0.1087,0.0,0.0,"8.4 years experience in Software Engineer with FastAPI and AWS. Strong recruiter responsiveness (77%), minor concern: 30-day notice.",
+34,CAND_0023528,0.1087,0.0,0.0,"2.5 years experience in QA Engineer with PostgreSQL and FastAPI. Strong recruiter responsiveness (69%), minor concern: 30-day notice.",
+35,CAND_0029467,0.1086,0.0,0.0,"3.2 years experience in Cloud Engineer with PostgreSQL and FastAPI. Strong recruiter responsiveness (70%), minor concern: 30-day notice.",
+36,CAND_0093732,0.1083,0.0,0.0,"5.3 years experience in DevOps Engineer with FastAPI and AWS. Strong recruiter responsiveness (70%), minor concern: 30-day notice.",
+37,CAND_0091061,0.1079,0.0,0.0,"8.7 years experience in Cloud Engineer with FastAPI and PostgreSQL. Strong recruiter responsiveness (77%), minor concern: 30-day notice.",
+38,CAND_0044669,0.1066,0.0,0.0,"7.8 years experience in Frontend Engineer with AWS. Strong recruiter responsiveness (82%), minor concern: 30-day notice.",Highly responsive to recruiter outreach (82%)
+39,CAND_0068930,0.1065,0.0,0.0,"2.4 years experience in Frontend Engineer with FastAPI and Python. Strong recruiter responsiveness (54%), minor concern: 30-day notice.",
+40,CAND_0096275,0.1063,0.0,0.0,"1.6 years experience in Software Engineer with Docker and AWS. Strong recruiter responsiveness (69%), minor concern: 30-day notice.",
+41,CAND_0082030,0.1062,0.0,0.0,"4.3 years experience in Software Engineer with PostgreSQL. Strong recruiter responsiveness (70%), minor concern: 30-day notice.",
+42,CAND_0006662,0.1061,0.0,0.0,"3.2 years experience in Software Engineer with Docker. Strong recruiter responsiveness (72%), minor concern: 30-day notice.",
+43,CAND_0090547,0.106,0.0,0.0,"7.1 years experience in Software Engineer with PostgreSQL. Strong recruiter responsiveness (80%), minor concern: 30-day notice.",
+44,CAND_0031167,0.1058,0.0,0.0,"2.5 years experience in DevOps Engineer with Docker and AWS. Strong recruiter responsiveness (75%), minor concern: 30-day notice.",
+45,CAND_0081420,0.1058,0.0,0.0,"2.2 years experience in Analytics Engineer with AWS. Strong recruiter responsiveness (42%), minor concern: 30-day notice.",
+46,CAND_0074474,0.1058,0.0,0.0,"9.1 years experience in Software Engineer with AWS and PostgreSQL. Strong recruiter responsiveness (44%), minor concern: 30-day notice.",
+47,CAND_0056452,0.1056,0.0,0.0,"7.8 years experience in Cloud Engineer with FastAPI. Strong recruiter responsiveness (75%), minor concern: 30-day notice.",
+48,CAND_0023393,0.1056,0.0,0.0,"5.4 years experience in .NET Developer with AWS and Python. Strong recruiter responsiveness (81%), minor concern: 30-day notice.",Highly responsive to recruiter outreach (81%)
+49,CAND_0086142,0.1055,0.0,0.0,"1.9 years experience in QA Engineer with Python and PostgreSQL. Strong recruiter responsiveness (83%), minor concern: 60-day notice.",Highly responsive to recruiter outreach (83%)
+50,CAND_0063437,0.1055,0.0,0.0,"8.1 years experience in Full Stack Developer with AWS and Docker. Strong recruiter responsiveness (73%), minor concern: 30-day notice.",
+51,CAND_0011578,0.1054,0.0,0.0,"1.0 years experience in Frontend Engineer with AWS and FastAPI. Strong recruiter responsiveness (76%), minor concern: 60-day notice.",
+52,CAND_0032538,0.1053,0.0,0.0,"5.7 years experience in Cloud Engineer with FastAPI. Strong recruiter responsiveness (83%), minor concern: 30-day notice.",Highly responsive to recruiter outreach (83%)
+53,CAND_0078651,0.1053,0.0,0.0,"7.4 years experience in Cloud Engineer with FastAPI. Strong recruiter responsiveness (42%), minor concern: 30-day notice.",
+54,CAND_0073986,0.105,0.0,0.0,"4.7 years experience in Frontend Engineer with PostgreSQL. Strong recruiter responsiveness (62%), minor concern: 30-day notice.",
+55,CAND_0077341,0.105,0.0,0.0,"9.4 years experience in Java Developer with FastAPI and PostgreSQL. Strong recruiter responsiveness (64%), minor concern: 30-day notice.",
+56,CAND_0086736,0.1049,0.0,0.0,"1.3 years experience in QA Engineer with PostgreSQL. Strong recruiter responsiveness (56%), minor concern: 30-day notice.",
+57,CAND_0067205,0.1049,0.0,0.0,"8.0 years experience in Software Engineer with FastAPI. Strong recruiter responsiveness (40%), minor concern: 30-day notice.",
+58,CAND_0094991,0.1049,0.0,0.0,"7.9 years experience in Software Engineer with PostgreSQL. Strong recruiter responsiveness (61%), minor concern: 30-day notice.",
+59,CAND_0079228,0.1048,0.0,0.0,"5.8 years experience in Senior Software Engineer with Python and FastAPI. Strong recruiter responsiveness (57%), minor concern: 60-day notice.",
+60,CAND_0060942,0.1047,0.0,0.0,"6.0 years experience in QA Engineer with Docker and AWS. Strong recruiter responsiveness (79%), minor concern: 30-day notice.",
+61,CAND_0039002,0.1047,0.0,0.0,"6.0 years experience in Software Engineer with PostgreSQL. Strong recruiter responsiveness (78%), minor concern: 30-day notice.",
+62,CAND_0064396,0.1046,0.0,0.0,"2.6 years experience in Mobile Developer with FastAPI. Strong recruiter responsiveness (73%), minor concern: 30-day notice.",
+63,CAND_0095992,0.1046,0.0,0.0,"8.7 years experience in Cloud Engineer with FastAPI. Strong recruiter responsiveness (85%), minor concern: 30-day notice.",Highly responsive to recruiter outreach (85%)
+64,CAND_0048979,0.1046,0.0,0.0,"4.7 years experience in Software Engineer with Docker. Strong recruiter responsiveness (77%), minor concern: 30-day notice.",
+65,CAND_0055773,0.1046,0.0,0.0,"5.4 years experience in DevOps Engineer with FastAPI. Strong recruiter responsiveness (68%), minor concern: 30-day notice.",
+66,CAND_0068809,0.1045,0.0,0.0,"8.4 years experience in Software Engineer with AWS. Strong recruiter responsiveness (42%), minor concern: 30-day notice.",
+67,CAND_0004028,0.1044,0.0,0.0,"6.4 years experience in Mobile Developer with Python, PostgreSQL, and FastAPI. Strong recruiter responsiveness (69%), minor concern: 60-day notice.",
+68,CAND_0062831,0.1044,0.0,0.0,"1.6 years experience in Cloud Engineer with FastAPI. Strong recruiter responsiveness (61%), minor concern: 30-day notice.",
+69,CAND_0042209,0.1044,0.0,0.0,"2.2 years experience in Frontend Engineer with FastAPI. Strong recruiter responsiveness (77%), minor concern: 30-day notice.",
+70,CAND_0094448,0.1043,0.0,0.0,"4.2 years experience in Frontend Engineer with AWS. Strong recruiter responsiveness (51%), minor concern: 30-day notice.",
+71,CAND_0006603,0.1043,0.0,0.0,"2.8 years experience in Analytics Engineer with Data Science, ASR, and Tally. Strong recruiter responsiveness (61%), minor concern: 30-day notice.",
+72,CAND_0013375,0.1042,0.0,0.0,"4.3 years experience in Backend Engineer with AWS and Python. Strong recruiter responsiveness (55%), minor concern: 60-day notice.",
+73,CAND_0004337,0.1041,0.0,0.0,"7.1 years experience in Frontend Engineer with Salesforce CRM, Six Sigma, and Feature Engineering. Strong recruiter responsiveness (83%), minor concern: 30-day notice.",Highly responsive to recruiter outreach (83%)
+74,CAND_0066049,0.1041,0.0,0.0,"4.6 years experience in Cloud Engineer with AWS. Strong recruiter responsiveness (52%), minor concern: 30-day notice.",
+75,CAND_0079833,0.1039,0.0,0.0,"3.7 years experience in QA Engineer with Rust, Excel, and dbt. Strong recruiter responsiveness (62%), minor concern: 30-day notice.",
+76,CAND_0051886,0.1039,0.0,0.0,"8.2 years experience in DevOps Engineer with AWS. Strong recruiter responsiveness (74%), minor concern: 30-day notice.",
+77,CAND_0033923,0.1039,0.0,0.0,"3.6 years experience in Java Developer with PostgreSQL, AWS, and Docker. Strong recruiter responsiveness (62%), minor concern: 60-day notice.",
+78,CAND_0017246,0.1039,0.0,0.0,"8.4 years experience in DevOps Engineer with Docker. Strong recruiter responsiveness (59%), minor concern: 30-day notice.",
+79,CAND_0007147,0.1038,0.0,0.0,"7.5 years experience in DevOps Engineer with PostgreSQL. Strong recruiter responsiveness (65%), minor concern: 30-day notice.",
+80,CAND_0064742,0.1038,0.0,0.0,"2.9 years experience in DevOps Engineer with PostgreSQL. Strong recruiter responsiveness (66%), minor concern: 30-day notice.",
+81,CAND_0028758,0.1038,0.0,0.0,"5.3 years experience in Software Engineer with AWS. Strong recruiter responsiveness (66%), minor concern: 30-day notice.",
+82,CAND_0060862,0.1037,0.0,0.0,"3.3 years experience in Data Engineer with FastAPI. Strong recruiter responsiveness (69%), minor concern: 30-day notice.",
+83,CAND_0083480,0.1037,0.0,0.0,"4.9 years experience in Frontend Engineer with Docker. Strong recruiter responsiveness (55%), minor concern: 30-day notice.",
+84,CAND_0057357,0.1036,0.0,0.0,"7.4 years experience in Analytics Engineer with Airflow, FAISS, and Statistical Modeling. Strong recruiter responsiveness (80%), minor concern: 30-day notice.",
+85,CAND_0045146,0.1036,0.0,0.0,"4.3 years experience in Cloud Engineer with AWS. Strong recruiter responsiveness (61%), minor concern: 30-day notice.",
+86,CAND_0091370,0.1036,0.0,0.0,"5.1 years experience in DevOps Engineer with Spring Boot, Marketing, and Semantic Search. Strong recruiter responsiveness (64%), minor concern: 30-day notice.",
+87,CAND_0057774,0.1036,0.0,0.0,"8.9 years experience in QA Engineer with Content Writing, MLOps, and CSS. Strong recruiter responsiveness (70%), minor concern: 30-day notice.",
+88,CAND_0074617,0.1035,0.0,0.0,"2.4 years experience in Senior Data Engineer with AWS. Strong recruiter responsiveness (31%), minor concern: 60-day notice.",
+89,CAND_0053138,0.1035,0.0,0.0,"9.6 years experience in DevOps Engineer with PostgreSQL and Python. Strong recruiter responsiveness (81%), minor concern: 30-day notice.",Highly responsive to recruiter outreach (81%)
+90,CAND_0032584,0.1035,0.0,0.0,"7.8 years experience in Senior Data Engineer with Weights & Biases, Sales, and Java. Strong recruiter responsiveness (64%), minor concern: 30-day notice.",
+91,CAND_0056335,0.1035,0.0,0.0,"1.2 years experience in DevOps Engineer with AWS. Strong recruiter responsiveness (40%), minor concern: 30-day notice.",
+92,CAND_0026485,0.1035,0.0,0.0,"7.6 years experience in Frontend Engineer with Python. Strong recruiter responsiveness (46%), minor concern: 30-day notice.",
+93,CAND_0098520,0.1034,0.0,0.0,"4.1 years experience in Cloud Engineer with SEO, MLflow, and Image Classification. Strong recruiter responsiveness (84%), minor concern: 30-day notice.",Highly responsive to recruiter outreach (84%)
+94,CAND_0025905,0.1034,0.0,0.0,"1.1 years experience in Cloud Engineer with PostgreSQL. Strong recruiter responsiveness (66%), minor concern: 30-day notice.",
+95,CAND_0011533,0.1034,0.0,0.0,"2.1 years experience in Frontend Engineer with Apache Beam, Computer Vision, and Terraform. Strong recruiter responsiveness (71%), minor concern: 30-day notice.",
+96,CAND_0063670,0.1034,0.0,0.0,"3.7 years experience in DevOps Engineer with FastAPI. Strong recruiter responsiveness (74%), minor concern: 30-day notice.",
+97,CAND_0051057,0.1034,0.0,0.0,"5.4 years experience in Cloud Engineer with FastAPI. Strong recruiter responsiveness (44%), minor concern: 30-day notice.",
+98,CAND_0088619,0.1033,0.0,0.0,"2.3 years experience in Frontend Engineer with PostgreSQL. Strong recruiter responsiveness (42%), minor concern: 30-day notice.",
+99,CAND_0089181,0.1033,0.0,0.0,"7.7 years experience in Data Analyst with Weaviate, Angular, and Computer Vision. Strong recruiter responsiveness (80%), minor concern: 30-day notice.",
+100,CAND_0073941,0.1033,0.0,0.0,"8.9 years experience in Software Engineer with FastAPI. Strong recruiter responsiveness (23%), minor concern: 30-day notice.",

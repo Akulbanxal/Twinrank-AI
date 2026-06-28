@@ -1,0 +1,4 @@
+[tool.pyright]
+include = ["backend", "models", "scripts"]
+extraPaths = ["."]
+reportMissingImports = false

@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+pydantic
+pydantic-settings
+python-multipart
+xgboost
+lightgbm
+scikit-learn
+sentence-transformers
+pandas
+numpy
+joblib
+pyyaml
+pytest
+shap

@@ -1,0 +1,19 @@
+# Datasets
+data/candidates.jsonl
+
+# Python cache & logs
+__pycache__/
+*.pyc
+backend/backend.log
+backend/app.log
+.pytest_cache/
+
+# Node/Next.js files
+node_modules/
+.next/
+frontend/frontend.log
+frontend/node_modules/
+
+# OS files
+.DS_Store
+Thumbs.db

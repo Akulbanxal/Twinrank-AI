@@ -1,0 +1,10 @@
+{
+  "id": "job_1",
+  "title": "Senior AI Engineer",
+  "description": "We need a strong AI engineer.",
+  "industry": "technology",
+  "required_skills": ["python", "fastapi", "postgresql", "docker", "aws"],
+  "required_education": "bachelors",
+  "max_salary": 150000,
+  "level": "senior"
+}

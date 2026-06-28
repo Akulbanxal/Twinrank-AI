@@ -1,0 +1,16 @@
+submission_meta:
+  team_name: TwinRank AI
+  submission_date: '2026-06-29T00:13:12.033907'
+  model_version: 1.0.0
+  environment: CPU-only
+  runtime_constraint: < 5 mins
+pipeline_stats:
+  candidates_processed: 100000
+  candidates_output: 100
+  features_used:
+  - capability
+  - growth
+  - behavior
+  - risk
+  - fraud
+  - semantic_skill_graph

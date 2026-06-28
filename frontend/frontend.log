@@ -1,0 +1,124 @@
+
+> frontend@0.1.0 dev
+> next dev
+
+▲ Next.js 16.2.9 (Turbopack)
+- Local:         http://localhost:3000
+- Network:       http://192.168.1.39:3000
+- Environments: .env.local
+✓ Ready in 504ms
+⚠ Warning: Next.js inferred your workspace root, but it may not be correct.
+ We detected multiple lockfiles and selected the directory of /Users/akul/Desktop/Recruit AI/bun.lock as the root directory.
+ To silence this warning, set `turbopack.root` in your Next.js config, or consider removing one of the lockfiles if it's not needed.
+   See https://nextjs.org/docs/app/api-reference/config/next-config-js/turbopack#root-directory for more information.
+ Detected additional lockfiles: 
+   * /Users/akul/Desktop/Recruit AI/Twinrank AI/frontend/package-lock.json
+
+
+ GET / 200 in 689ms (next.js: 231ms, application-code: 458ms)
+ GET /explorer 200 in 56ms (next.js: 27ms, application-code: 29ms)
+ GET /candidate/CAND_0075249 200 in 441ms (next.js: 408ms, application-code: 33ms)
+ GET /candidate/CAND_0091534 200 in 35ms (next.js: 11ms, application-code: 23ms)
+ GET /explorer 200 in 28ms (next.js: 5ms, application-code: 23ms)
+ GET / 200 in 26ms (next.js: 7ms, application-code: 19ms)
+ GET /candidate/c3 200 in 31ms (next.js: 11ms, application-code: 21ms)
+ GET / 200 in 24ms (next.js: 6ms, application-code: 18ms)
+ GET /candidate/c1 200 in 30ms (next.js: 10ms, application-code: 21ms)
+ GET /explorer 200 in 48ms (next.js: 14ms, application-code: 34ms)
+ GET /candidate/CAND_0050454 200 in 29ms (next.js: 9ms, application-code: 20ms)
+ GET /candidate/CAND_0036437 200 in 30ms (next.js: 10ms, application-code: 20ms)
+ GET /candidate/CAND_0055905 200 in 33ms (next.js: 8ms, application-code: 25ms)
+✓ Compiled in 392ms
+✓ Compiled in 397ms
+✓ Compiled in 128ms
+✓ Compiled in 170ms
+ GET / 200 in 626ms (next.js: 251ms, application-code: 375ms)
+[browser] A tree hydrated but some attributes of the server rendered HTML didn't match the client properties. This won't be patched up. This can happen if a SSR-ed Client Component used:
+
+- A server/client branch `if (typeof window !== 'undefined')`.
+- Variable input such as `Date.now()` or `Math.random()` which changes each time it's called.
+- Date formatting in a user's locale which doesn't match the server.
+- External changing data without sending a snapshot of it along with the HTML.
+- Invalid HTML tag nesting.
+
+It can also happen if the client has a browser extension installed which messes with the HTML before React loaded.
+
+https://react.dev/link/hydration-mismatch
+
+  ...
+    <HotReload globalError={[...]} webSocket={WebSocket} staticIndicatorState={{pathname:null, ...}}>
+      <AppDevOverlayErrorBoundary globalError={[...]}>
+        <ReplaySsrOnlyErrors>
+        <DevRootHTTPAccessFallbackBoundary>
+          <HTTPAccessFallbackBoundary notFound={<NotAllowedRootHTTPFallbackError>}>
+            <HTTPAccessFallbackErrorBoundary pathname="/" notFound={<NotAllowedRootHTTPFallbackError>} ...>
+              <RedirectBoundary>
+                <RedirectErrorBoundary router={{...}}>
+                  <Head>
+                  <__next_root_layout_boundary__>
+                    <SegmentViewNode type="layout" pagePath="layout.tsx">
+                      <SegmentTrieNode>
+                      <link>
+                      <script>
+                      <script>
+                      <RootLayout>
+                        <html lang="en">
+                          <body
++                           className="inter_c15e96cb-module__0bjUvq__variable outfit_9f4f9187-module__4LtYgq__variabl..."
+-                           className="inter_c15e96cb-module__0bjUvq__variable outfit_9f4f9187-module__4LtYgq__variabl..."
+                          >
+                  ...
+ 
+    at <unknown> (file:///Users/akul/Desktop/Recruit AI/Twinrank AI/frontend/.next/dev/static/chunks/1znr_next_dist_compiled_react-dom_0tdd-d8._.js:3439:25)
+    at runWithFiberInDEV (file:///Users/akul/Desktop/Recruit AI/Twinrank AI/frontend/.next/dev/static/chunks/1znr_next_dist_compiled_react-dom_0tdd-d8._.js:965:74)
+    at emitPendingHydrationWarnings (file:///Users/akul/Desktop/Recruit AI/Twinrank AI/frontend/.next/dev/static/chunks/1znr_next_dist_compiled_react-dom_0tdd-d8._.js:3438:13)
+    at completeWork (file:///Users/akul/Desktop/Recruit AI/Twinrank AI/frontend/.next/dev/static/chunks/1znr_next_dist_compiled_react-dom_0tdd-d8._.js:6885:102)
+    at runWithFiberInDEV (file:///Users/akul/Desktop/Recruit AI/Twinrank AI/frontend/.next/dev/static/chunks/1znr_next_dist_compiled_react-dom_0tdd-d8._.js:965:131)
+    at completeUnitOfWork (file:///Users/akul/Desktop/Recruit AI/Twinrank AI/frontend/.next/dev/static/chunks/1znr_next_dist_compiled_react-dom_0tdd-d8._.js:9622:23)
+    at performUnitOfWork (file:///Users/akul/Desktop/Recruit AI/Twinrank AI/frontend/.next/dev/static/chunks/1znr_next_dist_compiled_react-dom_0tdd-d8._.js:9557:28)
+    at workLoopConcurrentByScheduler (file:///Users/akul/Desktop/Recruit AI/Twinrank AI/frontend/.next/dev/static/chunks/1znr_next_dist_compiled_react-dom_0tdd-d8._.js:9551:58)
+    at renderRootConcurrent (file:///Users/akul/Desktop/Recruit AI/Twinrank AI/frontend/.next/dev/static/chunks/1znr_next_dist_compiled_react-dom_0tdd-d8._.js:9534:71)
+    at performWorkOnRoot (file:///Users/akul/Desktop/Recruit AI/Twinrank AI/frontend/.next/dev/static/chunks/1znr_next_dist_compiled_react-dom_0tdd-d8._.js:9061:150)
+    at performWorkOnRootViaSchedulerTask (file:///Users/akul/Desktop/Recruit AI/Twinrank AI/frontend/.next/dev/static/chunks/1znr_next_dist_compiled_react-dom_0tdd-d8._.js:10255:9)
+    at MessagePort.performWorkUntilDeadline (file:///Users/akul/Desktop/Recruit AI/Twinrank AI/frontend/.next/dev/static/chunks/1znr_next_dist_compiled_0vc7cgd._.js:2647:64) (file:///Users/akul/Desktop/Recruit AI/Twinrank AI/frontend/.next/dev/static/chunks/1znr_next_dist_compiled_react-dom_0tdd-d8._.js:3439:25)
+ GET /explorer 200 in 456ms (next.js: 289ms, application-code: 167ms)
+ GET /candidate/CAND_0055905 200 in 1620ms (next.js: 12ms, application-code: 1608ms)
+ GET /candidate/CAND_0055905 200 in 2.0s (next.js: 18ms, application-code: 2.0s)
+ GET /candidate/CAND_0055905 200 in 2.4s (next.js: 162ms, application-code: 2.3s)
+ GET /candidate/CAND_0055905 200 in 1859ms (next.js: 11ms, application-code: 1848ms)
+ GET /candidate/CAND_0055905 200 in 1855ms (next.js: 132ms, application-code: 1723ms)
+ GET /candidate/CAND_0055905 200 in 1924ms (next.js: 10ms, application-code: 1914ms)
+[browser] Failed to fetch RSC payload for http://localhost:3000/candidate/CAND_0055905. Falling back to browser navigation. TypeError: Load failed
+[browser] Failed to fetch RSC payload for http://localhost:3000/candidate/CAND_0055905. Falling back to browser navigation. TypeError: Load failed
+[browser] Failed to fetch RSC payload for http://localhost:3000/candidate/CAND_0055905. Falling back to browser navigation. TypeError: Load failed
+[browser] Failed to fetch RSC payload for http://localhost:3000/candidate/CAND_0055905. Falling back to browser navigation. TypeError: Load failed
+[browser] Failed to fetch RSC payload for http://localhost:3000/candidate/CAND_0055905. Falling back to browser navigation. TypeError: Load failed
+[browser] Failed to fetch RSC payload for http://localhost:3000/candidate/CAND_0055905. Falling back to browser navigation. TypeError: Load failed
+[browser] Failed to fetch RSC payload for http://localhost:3000/candidate/CAND_0055905. Falling back to browser navigation. TypeError: Load failed
+[browser] Failed to fetch RSC payload for http://localhost:3000/candidate/CAND_0055905. Falling back to browser navigation. TypeError: Load failed
+[browser] Failed to fetch RSC payload for http://localhost:3000/candidate/CAND_0055905. Falling back to browser navigation. TypeError: Load failed
+[browser] Failed to fetch RSC payload for http://localhost:3000/candidate/CAND_0055905. Falling back to browser navigation. TypeError: Load failed
+[browser] Failed to fetch RSC payload for http://localhost:3000/candidate/CAND_0055905. Falling back to browser navigation. TypeError: Load failed
+[browser] "⨯ unhandledRejection:" undefined 
+
+[browser] "⨯ unhandledRejection:" undefined 
+
+ GET /candidate/CAND_0055905 200 in 59ms (next.js: 5ms, application-code: 54ms)
+ GET /candidate/CAND_0055905 200 in 29.3s (next.js: 4ms, application-code: 29.3s)
+ GET /candidate/CAND_0091534 200 in 4.1s (next.js: 32ms, application-code: 4.1s)
+ GET /explorer 200 in 32ms (next.js: 9ms, application-code: 23ms)
+✓ Compiled in 268ms
+ GET /explorer 200 in 160ms (next.js: 46ms, application-code: 115ms)
+ GET /explorer 200 in 47ms (next.js: 3ms, application-code: 44ms)
+ GET /explorer 200 in 24ms (next.js: 2ms, application-code: 21ms)
+ GET /explorer 200 in 99ms (next.js: 6ms, application-code: 93ms)
+ GET / 200 in 18ms (next.js: 6ms, application-code: 12ms)
+ GET /explorer 200 in 38ms (next.js: 2ms, application-code: 36ms)
+ GET /explorer 200 in 46ms (next.js: 4ms, application-code: 42ms)
+ GET /candidate/CAND_0055905 200 in 813ms (next.js: 739ms, application-code: 74ms)
+ GET /candidate/CAND_0055905 200 in 797ms (next.js: 635ms, application-code: 162ms)
+ GET /candidate/CAND_0055905 200 in 762ms (next.js: 452ms, application-code: 310ms)
+ GET / 200 in 43ms (next.js: 10ms, application-code: 33ms)
+ GET /explorer 200 in 15ms (next.js: 3ms, application-code: 12ms)
+ GET /candidate/CAND_0091534 200 in 3.3s (next.js: 11ms, application-code: 3.3s)
+ GET / 200 in 21ms (next.js: 6ms, application-code: 15ms)
