@@ -22,6 +22,12 @@ function SkeletonCard() {
   );
 }
 
+const getApiUrl = (path: string) => {
+  const isGithubPages = typeof window !== "undefined" && window.location.hostname.includes("github.io");
+  const prefix = isGithubPages ? "/Twinrank-AI" : "";
+  return `${prefix}${path}`;
+};
+
 export default function Dashboard() {
   const [candidates, setCandidates] = useState<any[]>([]);
   const [loading, setLoading] = useState(true);
@@ -31,7 +37,7 @@ export default function Dashboard() {
   useEffect(() => {
     const fetchTopCandidates = async () => {
       try {
-        const res = await fetch("/api/candidates.json");
+        const res = await fetch(getApiUrl("/api/candidates.json"));
         const data = await res.json();
         // Get top 3 candidates
         setCandidates(data.slice(0, 3));

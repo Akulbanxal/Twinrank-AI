@@ -30,6 +30,12 @@ function TableSkeleton() {
   );
 }
 
+const getApiUrl = (path: string) => {
+  const isGithubPages = typeof window !== "undefined" && window.location.hostname.includes("github.io");
+  const prefix = isGithubPages ? "/Twinrank-AI" : "";
+  return `${prefix}${path}`;
+};
+
 function ExplorerContent() {
   const [candidates, setCandidates] = useState<any[]>([]);
   const [loading, setLoading] = useState(true);
@@ -40,7 +46,7 @@ function ExplorerContent() {
   useEffect(() => {
     const fetchCandidates = async () => {
       try {
-        const res = await fetch("/api/candidates.json");
+        const res = await fetch(getApiUrl("/api/candidates.json"));
         const data = await res.json();
         setCandidates(data);
       } catch (err) {
