@@ -1,0 +1,41 @@
+{
+  "id": "CAND_0018722",
+  "name": "Pranav Trivedi",
+  "title": "Recommendation Systems Engineer",
+  "score": 0.4806,
+  "skills": [
+    "Data Science",
+    "Weaviate",
+    "Python",
+    "Recommendation Systems",
+    "PowerPoint",
+    "LLMs",
+    "TensorFlow",
+    "Hugging Face Transformers",
+    "SEO",
+    "YOLO",
+    "Flask",
+    "scikit-learn",
+    "PEFT",
+    "GANs"
+  ],
+  "experience_years": 6.6,
+  "summary": "Machine learning engineer with 6.6 years of experience building ML-powered features in production. Strong background in NLP, recommendation systems, and applied AI; comfortable across the ML stack from feature engineering through deployment. Recently, I led the team that migrated our keyword-search-based product to embedding-based retrieval. Along the way I've gotten comfortable with the operational side \u2014 A/B testing, drift monitoring, retraining schedules. My academic background is in CS/ML but my main learning has come from shipping real systems and seeing what holds up under production load. Open to senior IC roles in applied ML or AI engineering, ideally at product companies where I'd own a meaningful piece of the ML stack.",
+  "is_honeypot": false,
+  "explainability": {
+    "why_selected": "6.6 years experience in Recommendation Systems Engineer with Python. Strong recruiter responsiveness (79%), minor concern: 90-day notice.",
+    "strengths": [],
+    "risks": [
+      "Notice period is relatively long (90 days)"
+    ],
+    "recruiter_notes": "Candidate has 6.6 years of experience and 14 skills. Notice period: 90 days. Expected salary: 30.2 LPA. Priority level: Medium.",
+    "confidence_score": 0.0
+  },
+  "chartData": {
+    "capability": 0.4806,
+    "growth": 0.5499999999999999,
+    "behavior": 0.79,
+    "trust": 0.85,
+    "market": 0.302
+  }
+}

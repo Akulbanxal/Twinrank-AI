@@ -1,0 +1,43 @@
+{
+  "id": "CAND_0075249",
+  "name": "Ishaan Arora",
+  "title": "Applied ML Engineer",
+  "score": 0.4827,
+  "skills": [
+    "Sentence Transformers",
+    "Milvus",
+    "Machine Learning",
+    "Fine-tuning LLMs",
+    "MLflow",
+    "Hadoop",
+    "BM25",
+    "Pinecone",
+    "Haystack",
+    "Time Series",
+    "Diffusion Models",
+    "ASR",
+    "Kubeflow",
+    "Learning to Rank"
+  ],
+  "experience_years": 6.2,
+  "summary": "Machine learning engineer with 6.2 years of experience building ML-powered features in production. Strong background in NLP, recommendation systems, and applied AI; comfortable across the ML stack from feature engineering through deployment. Recently, I led the team that migrated our keyword-search-based product to embedding-based retrieval. I've spent enough time debugging production ranking issues to know which signals matter and which are noise. My academic background is in CS/ML but my main learning has come from shipping real systems and seeing what holds up under production load. Open to senior IC roles in applied ML or AI engineering, ideally at product companies where I'd own a meaningful piece of the ML stack.",
+  "is_honeypot": false,
+  "explainability": {
+    "why_selected": "6.2 years experience in Applied ML Engineer with Sentence Transformers, Milvus, and Machine Learning. Strong recruiter responsiveness (82%), minor concern: 45-day notice.",
+    "strengths": [
+      "Highly responsive to recruiter outreach (82%)"
+    ],
+    "risks": [
+      "No immediate risk flags detected."
+    ],
+    "recruiter_notes": "Candidate has 6.2 years of experience and 14 skills. Notice period: 45 days. Expected salary: 27.5 LPA. Priority level: Medium.",
+    "confidence_score": 0.0
+  },
+  "chartData": {
+    "capability": 0.4827,
+    "growth": 0.5166666666666667,
+    "behavior": 0.82,
+    "trust": 0.85,
+    "market": 0.275
+  }
+}

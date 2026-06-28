@@ -1,0 +1,41 @@
+{
+  "id": "CAND_0093331",
+  "name": "Kiara Menon",
+  "title": "NLP Engineer",
+  "score": 0.5543,
+  "skills": [
+    "PyTorch",
+    "Prompt Engineering",
+    "Accounting",
+    "QLoRA",
+    "Embeddings",
+    "LangChain",
+    "Milvus",
+    "BM25",
+    "BentoML",
+    "Time Series",
+    "PEFT",
+    "Reinforcement Learning"
+  ],
+  "experience_years": 16.1,
+  "summary": "Machine learning engineer with 7.2 years of experience building ML-powered features in production. Strong background in NLP, recommendation systems, and applied AI; comfortable across the ML stack from feature engineering through deployment. Recently, I led the team that migrated our keyword-search-based product to embedding-based retrieval. I care a lot about evaluation rigor \u2014 too many teams ship models without offline benchmarks they trust. My academic background is in CS/ML but my main learning has come from shipping real systems and seeing what holds up under production load. Open to senior IC roles in applied ML or AI engineering, ideally at product companies where I'd own a meaningful piece of the ML stack.",
+  "is_honeypot": false,
+  "explainability": {
+    "why_selected": "16.1 years experience in NLP Engineer with PyTorch, Prompt Engineering, and Accounting. Strong recruiter responsiveness (41%), minor concern: 30-day notice.",
+    "strengths": [
+      "Transferable skill: 'pytorch' fulfills requirement for 'python'"
+    ],
+    "risks": [
+      "No immediate risk flags detected."
+    ],
+    "recruiter_notes": "Candidate has 16.1 years of experience and 12 skills. Notice period: 30 days. Expected salary: 34.4 LPA. Priority level: Medium.",
+    "confidence_score": 5.6
+  },
+  "chartData": {
+    "capability": 0.5543,
+    "growth": 1.0,
+    "behavior": 0.41,
+    "trust": 0.85,
+    "market": 0.344
+  }
+}

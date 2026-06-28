@@ -1,0 +1,33 @@
+{
+  "id": "CAND_0063670",
+  "name": "Shaurya Arora",
+  "title": "DevOps Engineer",
+  "score": 0.1034,
+  "skills": [
+    "Snowflake",
+    "Angular",
+    "FastAPI",
+    "Next.js",
+    "Forecasting",
+    "Flask"
+  ],
+  "experience_years": 3.7,
+  "summary": "Software engineer with 3.7 years of experience across web, backend, and cloud systems. Strong fundamentals in software development and system design. My background is full-stack, but my comfort zone is the backend and the database. I've been keeping up with AI/ML at a self-learner level \u2014 taken some online courses, played with the OpenAI and Anthropic APIs, built a small RAG side project \u2014 but I haven't done it in a professional capacity yet. Open to roles where I can either deepen my software engineering work or, if the team is open to it, start contributing to ML-adjacent systems.",
+  "is_honeypot": false,
+  "explainability": {
+    "why_selected": "3.7 years experience in DevOps Engineer with FastAPI. Strong recruiter responsiveness (74%), minor concern: 30-day notice.",
+    "strengths": [],
+    "risks": [
+      "No immediate risk flags detected."
+    ],
+    "recruiter_notes": "Candidate has 3.7 years of experience and 6 skills. Notice period: 30 days. Expected salary: 19.2 LPA. Priority level: Medium.",
+    "confidence_score": 0.0
+  },
+  "chartData": {
+    "capability": 0.1034,
+    "growth": 0.30833333333333335,
+    "behavior": 0.74,
+    "trust": 1.0,
+    "market": 0.192
+  }
+}

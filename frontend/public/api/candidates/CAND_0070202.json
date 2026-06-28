@@ -1,0 +1,42 @@
+{
+  "id": "CAND_0070202",
+  "name": "Ayaan Mishra",
+  "title": "Machine Learning Engineer",
+  "score": 0.4658,
+  "skills": [
+    "Microservices",
+    "Object Detection",
+    "OpenCV",
+    "Embeddings",
+    "Qdrant",
+    "LoRA",
+    "Learning to Rank",
+    "Fine-tuning LLMs",
+    "Semantic Search",
+    "GANs",
+    "PyTorch",
+    "Weights & Biases",
+    "BM25",
+    "RAG",
+    "NLP"
+  ],
+  "experience_years": 5.1,
+  "summary": "Machine learning engineer with 5.1 years of experience building ML-powered features in production. Strong background in NLP, recommendation systems, and applied AI; comfortable across the ML stack from feature engineering through deployment. Recently, I led the team that migrated our keyword-search-based product to embedding-based retrieval. I've spent enough time debugging production ranking issues to know which signals matter and which are noise. My academic background is in CS/ML but my main learning has come from shipping real systems and seeing what holds up under production load. Open to senior IC roles in applied ML or AI engineering, ideally at product companies where I'd own a meaningful piece of the ML stack.",
+  "is_honeypot": false,
+  "explainability": {
+    "why_selected": "5.1 years experience in Machine Learning Engineer with Microservices, Object Detection, and OpenCV. Strong recruiter responsiveness (60%), minor concern: 90-day notice.",
+    "strengths": [],
+    "risks": [
+      "Notice period is relatively long (90 days)"
+    ],
+    "recruiter_notes": "Candidate has 5.1 years of experience and 15 skills. Notice period: 90 days. Expected salary: 26.1 LPA. Priority level: Medium.",
+    "confidence_score": 0.0
+  },
+  "chartData": {
+    "capability": 0.4658,
+    "growth": 0.425,
+    "behavior": 0.6,
+    "trust": 0.85,
+    "market": 0.261
+  }
+}

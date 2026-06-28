@@ -1,0 +1,33 @@
+{
+  "id": "CAND_0094991",
+  "name": "Sneha Chopra",
+  "title": "Software Engineer",
+  "score": 0.1049,
+  "skills": [
+    "PostgreSQL",
+    "HTML",
+    "React",
+    "Redux",
+    "Six Sigma",
+    "CSS"
+  ],
+  "experience_years": 7.9,
+  "summary": "Software engineer with 7.9 years of experience across web, backend, and cloud systems. Strong fundamentals in software development and system design. I've spent most of my career on web and API development \u2014 Python/Django and Node.js mostly. I've been keeping up with AI/ML at a self-learner level \u2014 taken some online courses, played with the OpenAI and Anthropic APIs, built a small RAG side project \u2014 but I haven't done it in a professional capacity yet. Open to roles where I can either deepen my software engineering work or, if the team is open to it, start contributing to ML-adjacent systems.",
+  "is_honeypot": false,
+  "explainability": {
+    "why_selected": "7.9 years experience in Software Engineer with PostgreSQL. Strong recruiter responsiveness (61%), minor concern: 30-day notice.",
+    "strengths": [],
+    "risks": [
+      "No immediate risk flags detected."
+    ],
+    "recruiter_notes": "Candidate has 7.9 years of experience and 6 skills. Notice period: 30 days. Expected salary: 11.2 LPA. Priority level: Medium.",
+    "confidence_score": 0.0
+  },
+  "chartData": {
+    "capability": 0.1049,
+    "growth": 0.6583333333333333,
+    "behavior": 0.61,
+    "trust": 1.0,
+    "market": 0.11199999999999999
+  }
+}

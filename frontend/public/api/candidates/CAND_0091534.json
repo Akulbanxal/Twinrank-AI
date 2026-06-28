@@ -1,0 +1,39 @@
+{
+  "id": "CAND_0091534",
+  "name": "Dhruv Dutta",
+  "title": "AI Engineer",
+  "score": 0.6047,
+  "skills": [
+    "Hugging Face Transformers",
+    "scikit-learn",
+    "Diffusion Models",
+    "Qdrant",
+    "Sentence Transformers",
+    "RAG",
+    "Data Science",
+    "LlamaIndex",
+    "Kubeflow",
+    "LangChain"
+  ],
+  "experience_years": 16.6,
+  "summary": "Machine learning engineer with 7.2 years of experience building ML-powered features in production. Strong background in NLP, recommendation systems, and applied AI; comfortable across the ML stack from feature engineering through deployment. Recently, I led the team that migrated our keyword-search-based product to embedding-based retrieval. Along the way I've gotten comfortable with the operational side \u2014 A/B testing, drift monitoring, retraining schedules. My academic background is in CS/ML but my main learning has come from shipping real systems and seeing what holds up under production load. Open to senior IC roles in applied ML or AI engineering, ideally at product companies where I'd own a meaningful piece of the ML stack.",
+  "is_honeypot": false,
+  "explainability": {
+    "why_selected": "16.6 years experience in AI Engineer with Hugging Face Transformers, scikit-learn, and Diffusion Models. Strong recruiter responsiveness (84%), minor concern: 30-day notice.",
+    "strengths": [
+      "Highly responsive to recruiter outreach (84%)"
+    ],
+    "risks": [
+      "No immediate risk flags detected."
+    ],
+    "recruiter_notes": "Candidate has 16.6 years of experience and 10 skills. Notice period: 30 days. Expected salary: 34.2 LPA. Priority level: Medium.",
+    "confidence_score": 13.2
+  },
+  "chartData": {
+    "capability": 0.6047,
+    "growth": 1.0,
+    "behavior": 0.84,
+    "trust": 0.85,
+    "market": 0.342
+  }
+}

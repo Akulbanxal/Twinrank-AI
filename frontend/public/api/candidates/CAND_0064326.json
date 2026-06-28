@@ -1,0 +1,43 @@
+{
+  "id": "CAND_0064326",
+  "name": "Nisha Pillai",
+  "title": "Search Engineer",
+  "score": 0.594,
+  "skills": [
+    "scikit-learn",
+    "PyTorch",
+    "Milvus",
+    "Deep Learning",
+    "Semantic Search",
+    "Weaviate",
+    "Object Detection",
+    "RAG",
+    "Weights & Biases",
+    "BM25",
+    "Webpack",
+    "Python",
+    "QLoRA",
+    "Reinforcement Learning"
+  ],
+  "experience_years": 7.6,
+  "summary": "Machine learning engineer with 7.6 years of experience building ML-powered features in production. Strong background in NLP, recommendation systems, and applied AI; comfortable across the ML stack from feature engineering through deployment. Recently, I shipped our first RAG-based feature this year and now own the eval framework for it. I've spent enough time debugging production ranking issues to know which signals matter and which are noise. My academic background is in CS/ML but my main learning has come from shipping real systems and seeing what holds up under production load. Open to senior IC roles in applied ML or AI engineering, ideally at product companies where I'd own a meaningful piece of the ML stack.",
+  "is_honeypot": false,
+  "explainability": {
+    "why_selected": "7.6 years experience in Search Engineer with Python. Strong recruiter responsiveness (94%), minor concern: 45-day notice.",
+    "strengths": [
+      "Highly responsive to recruiter outreach (94%)"
+    ],
+    "risks": [
+      "No immediate risk flags detected."
+    ],
+    "recruiter_notes": "Candidate has 7.6 years of experience and 14 skills. Notice period: 45 days. Expected salary: 29.2 LPA. Priority level: Medium.",
+    "confidence_score": 0.0
+  },
+  "chartData": {
+    "capability": 0.594,
+    "growth": 0.6333333333333333,
+    "behavior": 0.94,
+    "trust": 0.85,
+    "market": 0.292
+  }
+}

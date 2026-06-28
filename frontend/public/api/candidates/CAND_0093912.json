@@ -1,0 +1,40 @@
+{
+  "id": "CAND_0093912",
+  "name": "Advik Sethi",
+  "title": "Senior Data Scientist",
+  "score": 0.5988,
+  "skills": [
+    "Feature Engineering",
+    "SAP",
+    "CNN",
+    "Milvus",
+    "Embeddings",
+    "Recommendation Systems",
+    "Vector Search",
+    "Haystack",
+    "Sales",
+    "Learning to Rank",
+    "Elasticsearch",
+    "FastAPI",
+    "Forecasting"
+  ],
+  "experience_years": 5.3,
+  "summary": "Machine learning engineer with 5.3 years of experience building ML-powered features in production. Strong background in NLP, recommendation systems, and applied AI; comfortable across the ML stack from feature engineering through deployment. Recently, I shipped our first RAG-based feature this year and now own the eval framework for it. I care a lot about evaluation rigor \u2014 too many teams ship models without offline benchmarks they trust. My academic background is in CS/ML but my main learning has come from shipping real systems and seeing what holds up under production load. Open to senior IC roles in applied ML or AI engineering, ideally at product companies where I'd own a meaningful piece of the ML stack.",
+  "is_honeypot": false,
+  "explainability": {
+    "why_selected": "5.3 years experience in Senior Data Scientist with FastAPI. Strong recruiter responsiveness (66%), minor concern: 30-day notice.",
+    "strengths": [],
+    "risks": [
+      "No immediate risk flags detected."
+    ],
+    "recruiter_notes": "Candidate has 5.3 years of experience and 13 skills. Notice period: 30 days. Expected salary: 31.4 LPA. Priority level: Medium.",
+    "confidence_score": 9.5
+  },
+  "chartData": {
+    "capability": 0.5988,
+    "growth": 0.44166666666666665,
+    "behavior": 0.66,
+    "trust": 0.85,
+    "market": 0.314
+  }
+}

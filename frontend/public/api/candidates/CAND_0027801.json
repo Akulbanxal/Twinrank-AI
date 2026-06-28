@@ -1,0 +1,42 @@
+{
+  "id": "CAND_0027801",
+  "name": "Anil Mittal",
+  "title": "NLP Engineer",
+  "score": 0.4637,
+  "skills": [
+    "Time Series",
+    "FAISS",
+    "Milvus",
+    "QLoRA",
+    "Diffusion Models",
+    "TensorFlow",
+    "GANs",
+    "OpenSearch",
+    "MLOps",
+    "CNN",
+    "Vector Search",
+    "LlamaIndex",
+    "CI/CD",
+    "Learning to Rank",
+    "scikit-learn"
+  ],
+  "experience_years": 7.4,
+  "summary": "Machine learning engineer with 7.4 years of experience building ML-powered features in production. Strong background in NLP, recommendation systems, and applied AI; comfortable across the ML stack from feature engineering through deployment. Recently, I shipped our first RAG-based feature this year and now own the eval framework for it. Along the way I've gotten comfortable with the operational side \u2014 A/B testing, drift monitoring, retraining schedules. My academic background is in CS/ML but my main learning has come from shipping real systems and seeing what holds up under production load. Open to senior IC roles in applied ML or AI engineering, ideally at product companies where I'd own a meaningful piece of the ML stack.",
+  "is_honeypot": false,
+  "explainability": {
+    "why_selected": "7.4 years experience in NLP Engineer with Time Series, FAISS, and Milvus. Strong recruiter responsiveness (65%), minor concern: 120-day notice.",
+    "strengths": [],
+    "risks": [
+      "Notice period is relatively long (120 days)"
+    ],
+    "recruiter_notes": "Candidate has 7.4 years of experience and 15 skills. Notice period: 120 days. Expected salary: 36.4 LPA. Priority level: Medium.",
+    "confidence_score": 0.0
+  },
+  "chartData": {
+    "capability": 0.4637,
+    "growth": 0.6166666666666667,
+    "behavior": 0.65,
+    "trust": 0.85,
+    "market": 0.364
+  }
+}

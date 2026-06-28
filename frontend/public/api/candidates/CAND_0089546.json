@@ -1,0 +1,40 @@
+{
+  "id": "CAND_0089546",
+  "name": "Ishaan Mittal",
+  "title": "Machine Learning Engineer",
+  "score": 0.4471,
+  "skills": [
+    "Recommendation Systems",
+    "Reinforcement Learning",
+    "TensorFlow",
+    "LoRA",
+    "YOLO",
+    "QLoRA",
+    "PyTorch",
+    "Prompt Engineering",
+    "Kubeflow",
+    "BM25",
+    "NLP",
+    "Qdrant",
+    "Forecasting"
+  ],
+  "experience_years": 4.8,
+  "summary": "Machine learning engineer with 4.8 years of experience building ML-powered features in production. Strong background in NLP, recommendation systems, and applied AI; comfortable across the ML stack from feature engineering through deployment. Recently, I shipped our first RAG-based feature this year and now own the eval framework for it. I've learned that most retrieval problems are actually evaluation problems in disguise. My academic background is in CS/ML but my main learning has come from shipping real systems and seeing what holds up under production load. Open to senior IC roles in applied ML or AI engineering, ideally at product companies where I'd own a meaningful piece of the ML stack.",
+  "is_honeypot": false,
+  "explainability": {
+    "why_selected": "4.8 years experience in Machine Learning Engineer with Recommendation Systems, Reinforcement Learning, and TensorFlow. Strong recruiter responsiveness (64%), minor concern: 90-day notice.",
+    "strengths": [],
+    "risks": [
+      "Notice period is relatively long (90 days)"
+    ],
+    "recruiter_notes": "Candidate has 4.8 years of experience and 13 skills. Notice period: 90 days. Expected salary: 35.7 LPA. Priority level: Medium.",
+    "confidence_score": 0.0
+  },
+  "chartData": {
+    "capability": 0.4471,
+    "growth": 0.39999999999999997,
+    "behavior": 0.64,
+    "trust": 0.85,
+    "market": 0.35700000000000004
+  }
+}

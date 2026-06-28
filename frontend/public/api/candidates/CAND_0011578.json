@@ -1,0 +1,35 @@
+{
+  "id": "CAND_0011578",
+  "name": "Atharv Menon",
+  "title": "Frontend Engineer",
+  "score": 0.1054,
+  "skills": [
+    "AWS",
+    "FastAPI",
+    "JavaScript",
+    "Spark",
+    "MLflow",
+    "Hadoop",
+    "Six Sigma",
+    "BentoML"
+  ],
+  "experience_years": 1.0,
+  "summary": "Software engineer with 1.0 years of experience across web, backend, and cloud systems. Strong fundamentals in software development and system design. My background is full-stack, but my comfort zone is the backend and the database. I've been keeping up with AI/ML at a self-learner level \u2014 taken some online courses, played with the OpenAI and Anthropic APIs, built a small RAG side project \u2014 but I haven't done it in a professional capacity yet. Open to roles where I can either deepen my software engineering work or, if the team is open to it, start contributing to ML-adjacent systems.",
+  "is_honeypot": false,
+  "explainability": {
+    "why_selected": "1.0 years experience in Frontend Engineer with AWS and FastAPI. Strong recruiter responsiveness (76%), minor concern: 60-day notice.",
+    "strengths": [],
+    "risks": [
+      "No immediate risk flags detected."
+    ],
+    "recruiter_notes": "Candidate has 1.0 years of experience and 8 skills. Notice period: 60 days. Expected salary: 10.1 LPA. Priority level: Medium.",
+    "confidence_score": 0.0
+  },
+  "chartData": {
+    "capability": 0.1054,
+    "growth": 0.08333333333333333,
+    "behavior": 0.76,
+    "trust": 1.0,
+    "market": 0.10099999999999999
+  }
+}

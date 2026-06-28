@@ -2,6 +2,8 @@ import { CandidateRadarChart } from "@/components/dashboard/RadarChart";
 import { ConfidenceMeter } from "@/components/dashboard/ConfidenceMeter";
 import { CheckCircle2, AlertOctagon, Info, ArrowLeft, Briefcase, Award } from "lucide-react";
 import Link from "next/link";
+import fs from "fs";
+import path from "path";
 
 export default async function CandidateDetail({ params }: { params: Promise<{ id: string }> }) {
   const { id } = await params;
@@ -9,12 +11,12 @@ export default async function CandidateDetail({ params }: { params: Promise<{ id
   let errorMsg: string | null = null;
 
   try {
-    const apiUrl = process.env.NEXT_PUBLIC_API_URL || "http://localhost:8000";
-    const res = await fetch(`${apiUrl}/api/v1/jobs/candidates/${id}`, { cache: "no-store" });
-    if (!res.ok) {
-      throw new Error(`Failed to load candidate: ${res.statusText}`);
+    const jsonPath = path.join(process.cwd(), "public", "api", "candidates", `${id}.json`);
+    if (!fs.existsSync(jsonPath)) {
+      throw new Error(`Candidate details file not found at: ${jsonPath}`);
     }
-    candidate = await res.json();
+    const fileContent = fs.readFileSync(jsonPath, "utf-8");
+    candidate = JSON.parse(fileContent);
   } catch (err: any) {
     console.error(err);
     errorMsg = err.message || "Failed to load candidate details.";
@@ -141,4 +143,15 @@ export default async function CandidateDetail({ params }: { params: Promise<{ id
       </div>
     </div>
   );
+}
+
+export async function generateStaticParams() {
+  const dir = path.join(process.cwd(), "public", "api", "candidates");
+  if (!fs.existsSync(dir)) return [];
+  const files = fs.readdirSync(dir);
+  return files
+    .filter((f) => f.endsWith(".json"))
+    .map((f) => ({
+      id: f.replace(".json", ""),
+    }));
 }

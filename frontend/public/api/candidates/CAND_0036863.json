@@ -1,0 +1,37 @@
+{
+  "id": "CAND_0036863",
+  "name": "Vikram Bansal",
+  "title": "Senior Data Scientist",
+  "score": 0.5422,
+  "skills": [
+    "OpenCV",
+    "Qdrant",
+    "TTS",
+    "LlamaIndex",
+    "Prompt Engineering",
+    "OpenSearch",
+    "BM25",
+    "FAISS",
+    "YOLO",
+    "LoRA"
+  ],
+  "experience_years": 4.3,
+  "summary": "Machine learning engineer with 4.3 years of experience building ML-powered features in production. Strong background in NLP, recommendation systems, and applied AI; comfortable across the ML stack from feature engineering through deployment. Recently, I shipped our first RAG-based feature this year and now own the eval framework for it. I've spent enough time debugging production ranking issues to know which signals matter and which are noise. My academic background is in CS/ML but my main learning has come from shipping real systems and seeing what holds up under production load. Open to senior IC roles in applied ML or AI engineering, ideally at product companies where I'd own a meaningful piece of the ML stack.",
+  "is_honeypot": false,
+  "explainability": {
+    "why_selected": "4.3 years experience in Senior Data Scientist with OpenCV, Qdrant, and TTS. Strong recruiter responsiveness (46%), minor concern: 60-day notice.",
+    "strengths": [],
+    "risks": [
+      "No immediate risk flags detected."
+    ],
+    "recruiter_notes": "Candidate has 4.3 years of experience and 10 skills. Notice period: 60 days. Expected salary: 32.0 LPA. Priority level: Medium.",
+    "confidence_score": 0.0
+  },
+  "chartData": {
+    "capability": 0.5422,
+    "growth": 0.35833333333333334,
+    "behavior": 0.46,
+    "trust": 0.85,
+    "market": 0.32
+  }
+}

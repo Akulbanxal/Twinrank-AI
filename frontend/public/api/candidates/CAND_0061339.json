@@ -1,0 +1,43 @@
+{
+  "id": "CAND_0061339",
+  "name": "Tanvi Dutta",
+  "title": "Search Engineer",
+  "score": 0.4294,
+  "skills": [
+    "Information Retrieval",
+    "YOLO",
+    "Data Pipelines",
+    "Milvus",
+    "BentoML",
+    "TensorFlow",
+    "Vector Search",
+    "LlamaIndex",
+    "OpenSearch",
+    "MLflow",
+    "LLMs",
+    "Diffusion Models",
+    "Prompt Engineering",
+    "TTS"
+  ],
+  "experience_years": 4.2,
+  "summary": "Machine learning engineer with 4.2 years of experience building ML-powered features in production. Strong background in NLP, recommendation systems, and applied AI; comfortable across the ML stack from feature engineering through deployment. Recently, I led the team that migrated our keyword-search-based product to embedding-based retrieval. I've learned that most retrieval problems are actually evaluation problems in disguise. My academic background is in CS/ML but my main learning has come from shipping real systems and seeing what holds up under production load. Open to senior IC roles in applied ML or AI engineering, ideally at product companies where I'd own a meaningful piece of the ML stack.",
+  "is_honeypot": false,
+  "explainability": {
+    "why_selected": "4.2 years experience in Search Engineer with Information Retrieval, YOLO, and Data Pipelines. Strong recruiter responsiveness (90%), minor concern: 90-day notice.",
+    "strengths": [
+      "Highly responsive to recruiter outreach (90%)"
+    ],
+    "risks": [
+      "Notice period is relatively long (90 days)"
+    ],
+    "recruiter_notes": "Candidate has 4.2 years of experience and 14 skills. Notice period: 90 days. Expected salary: 33.9 LPA. Priority level: Medium.",
+    "confidence_score": 0.0
+  },
+  "chartData": {
+    "capability": 0.4294,
+    "growth": 0.35000000000000003,
+    "behavior": 0.9,
+    "trust": 0.85,
+    "market": 0.33899999999999997
+  }
+}

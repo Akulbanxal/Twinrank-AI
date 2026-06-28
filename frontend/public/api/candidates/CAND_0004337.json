@@ -1,0 +1,37 @@
+{
+  "id": "CAND_0004337",
+  "name": "Meera Chowdary",
+  "title": "Frontend Engineer",
+  "score": 0.1041,
+  "skills": [
+    "Salesforce CRM",
+    "Six Sigma",
+    "Feature Engineering",
+    "MLOps",
+    "Java",
+    "Apache Beam",
+    "Spring Boot",
+    "SAP"
+  ],
+  "experience_years": 7.1,
+  "summary": "Software engineer with 7.1 years of experience across web, backend, and cloud systems. Strong fundamentals in software development and system design. Most of my work is conventional backend engineering \u2014 APIs, databases, queues, deployments. I've been keeping up with AI/ML at a self-learner level \u2014 taken some online courses, played with the OpenAI and Anthropic APIs, built a small RAG side project \u2014 but I haven't done it in a professional capacity yet. Open to roles where I can either deepen my software engineering work or, if the team is open to it, start contributing to ML-adjacent systems.",
+  "is_honeypot": false,
+  "explainability": {
+    "why_selected": "7.1 years experience in Frontend Engineer with Salesforce CRM, Six Sigma, and Feature Engineering. Strong recruiter responsiveness (83%), minor concern: 30-day notice.",
+    "strengths": [
+      "Highly responsive to recruiter outreach (83%)"
+    ],
+    "risks": [
+      "No immediate risk flags detected."
+    ],
+    "recruiter_notes": "Candidate has 7.1 years of experience and 8 skills. Notice period: 30 days. Expected salary: 15.5 LPA. Priority level: Medium.",
+    "confidence_score": 0.0
+  },
+  "chartData": {
+    "capability": 0.1041,
+    "growth": 0.5916666666666667,
+    "behavior": 0.83,
+    "trust": 1.0,
+    "market": 0.155
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "CAND_0010257",
+  "name": "Ira Shetty",
+  "title": "Senior Data Scientist",
+  "score": 0.4695,
+  "skills": [
+    "Milvus",
+    "TensorFlow",
+    "MLflow",
+    "Python",
+    "Forecasting",
+    "OpenSearch",
+    "Qdrant",
+    "JavaScript",
+    "ASR",
+    "Machine Learning",
+    "Feature Engineering",
+    "Image Classification",
+    "Recommendation Systems",
+    "pgvector",
+    "Rust"
+  ],
+  "experience_years": 6.5,
+  "summary": "Machine learning engineer with 6.5 years of experience building ML-powered features in production. Strong background in NLP, recommendation systems, and applied AI; comfortable across the ML stack from feature engineering through deployment. Recently, I led the team that migrated our keyword-search-based product to embedding-based retrieval. I care a lot about evaluation rigor \u2014 too many teams ship models without offline benchmarks they trust. My academic background is in CS/ML but my main learning has come from shipping real systems and seeing what holds up under production load. Open to senior IC roles in applied ML or AI engineering, ideally at product companies where I'd own a meaningful piece of the ML stack.",
+  "is_honeypot": false,
+  "explainability": {
+    "why_selected": "6.5 years experience in Senior Data Scientist with Python. Strong recruiter responsiveness (72%), minor concern: 120-day notice.",
+    "strengths": [],
+    "risks": [
+      "Notice period is relatively long (120 days)"
+    ],
+    "recruiter_notes": "Candidate has 6.5 years of experience and 15 skills. Notice period: 120 days. Expected salary: 39.9 LPA. Priority level: Medium.",
+    "confidence_score": 0.0
+  },
+  "chartData": {
+    "capability": 0.4695,
+    "growth": 0.5416666666666666,
+    "behavior": 0.72,
+    "trust": 0.85,
+    "market": 0.39899999999999997
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "CAND_0081852",
+  "name": "Krishna Subramanian",
+  "title": "Senior Data Scientist",
+  "score": 0.5127,
+  "skills": [
+    "Salesforce CRM",
+    "Semantic Search",
+    "TTS",
+    "Milvus",
+    "BentoML",
+    "pgvector",
+    "Weaviate",
+    "Haystack",
+    "Vector Search",
+    "LoRA",
+    "Speech Recognition",
+    "Computer Vision",
+    "MLOps",
+    "CNN"
+  ],
+  "experience_years": 5.9,
+  "summary": "Machine learning engineer with 5.9 years of experience building ML-powered features in production. Strong background in NLP, recommendation systems, and applied AI; comfortable across the ML stack from feature engineering through deployment. Recently, I led the team that migrated our keyword-search-based product to embedding-based retrieval. I care a lot about evaluation rigor \u2014 too many teams ship models without offline benchmarks they trust. My academic background is in CS/ML but my main learning has come from shipping real systems and seeing what holds up under production load. Open to senior IC roles in applied ML or AI engineering, ideally at product companies where I'd own a meaningful piece of the ML stack.",
+  "is_honeypot": false,
+  "explainability": {
+    "why_selected": "5.9 years experience in Senior Data Scientist with Salesforce CRM, Semantic Search, and TTS. Strong recruiter responsiveness (44%), minor concern: 45-day notice.",
+    "strengths": [],
+    "risks": [
+      "No immediate risk flags detected."
+    ],
+    "recruiter_notes": "Candidate has 5.9 years of experience and 14 skills. Notice period: 45 days. Expected salary: 27.4 LPA. Priority level: Medium.",
+    "confidence_score": 0.0
+  },
+  "chartData": {
+    "capability": 0.5127,
+    "growth": 0.4916666666666667,
+    "behavior": 0.44,
+    "trust": 0.85,
+    "market": 0.27399999999999997
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "CAND_0079064",
+  "name": "Sai Saxena",
+  "title": "Senior Data Scientist",
+  "score": 0.4629,
+  "skills": [
+    "Illustrator",
+    "LlamaIndex",
+    "OpenSearch",
+    "NLP",
+    "ASR",
+    "Semantic Search",
+    "Node.js",
+    "Fine-tuning LLMs",
+    "Angular",
+    "Reinforcement Learning",
+    "Pinecone",
+    "OpenCV",
+    "QLoRA",
+    "Recommendation Systems"
+  ],
+  "experience_years": 5.2,
+  "summary": "Machine learning engineer with 5.2 years of experience building ML-powered features in production. Strong background in NLP, recommendation systems, and applied AI; comfortable across the ML stack from feature engineering through deployment. Recently, I shipped our first RAG-based feature this year and now own the eval framework for it. I've spent enough time debugging production ranking issues to know which signals matter and which are noise. My academic background is in CS/ML but my main learning has come from shipping real systems and seeing what holds up under production load. Open to senior IC roles in applied ML or AI engineering, ideally at product companies where I'd own a meaningful piece of the ML stack.",
+  "is_honeypot": false,
+  "explainability": {
+    "why_selected": "5.2 years experience in Senior Data Scientist with Illustrator, LlamaIndex, and OpenSearch. Strong recruiter responsiveness (91%), minor concern: 120-day notice.",
+    "strengths": [
+      "Highly responsive to recruiter outreach (91%)"
+    ],
+    "risks": [
+      "Notice period is relatively long (120 days)"
+    ],
+    "recruiter_notes": "Candidate has 5.2 years of experience and 14 skills. Notice period: 120 days. Expected salary: 24.2 LPA. Priority level: Medium.",
+    "confidence_score": 0.0
+  },
+  "chartData": {
+    "capability": 0.4629,
+    "growth": 0.43333333333333335,
+    "behavior": 0.91,
+    "trust": 0.85,
+    "market": 0.242
+  }
+}

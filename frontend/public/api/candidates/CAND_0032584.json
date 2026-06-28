@@ -1,0 +1,35 @@
+{
+  "id": "CAND_0032584",
+  "name": "Riya Banerjee",
+  "title": "Senior Data Engineer",
+  "score": 0.1035,
+  "skills": [
+    "Weights & Biases",
+    "Sales",
+    "Java",
+    "Terraform",
+    "Semantic Search",
+    "Pinecone",
+    "Statistical Modeling",
+    "Kubeflow"
+  ],
+  "experience_years": 7.8,
+  "summary": "Software / data professional with 7.8 years of experience building data pipelines, backend systems, and analytics infrastructure. I'm a backend/data hybrid \u2014 Spark, Airflow, SQL warehouses are home territory; I'm building competence on the ML side. My toolkit is solid on the data engineering side \u2014 Python, SQL, Spark, Airflow, warehouse design \u2014 and I've completed a couple of self-directed ML projects (Kaggle competitions, side projects fine-tuning small models). Interested in transitioning toward more AI/ML-focused work, ideally at a company where I can leverage my existing data-infra skills while learning modern ML practice.",
+  "is_honeypot": false,
+  "explainability": {
+    "why_selected": "7.8 years experience in Senior Data Engineer with Weights & Biases, Sales, and Java. Strong recruiter responsiveness (64%), minor concern: 30-day notice.",
+    "strengths": [],
+    "risks": [
+      "No immediate risk flags detected."
+    ],
+    "recruiter_notes": "Candidate has 7.8 years of experience and 8 skills. Notice period: 30 days. Expected salary: 26.8 LPA. Priority level: Medium.",
+    "confidence_score": 0.0
+  },
+  "chartData": {
+    "capability": 0.1035,
+    "growth": 0.65,
+    "behavior": 0.64,
+    "trust": 1.0,
+    "market": 0.268
+  }
+}

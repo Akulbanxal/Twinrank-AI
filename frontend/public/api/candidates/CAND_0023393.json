@@ -1,0 +1,36 @@
+{
+  "id": "CAND_0023393",
+  "name": "Priya Khanna",
+  "title": ".NET Developer",
+  "score": 0.1056,
+  "skills": [
+    "Scrum",
+    "Apache Flink",
+    "Webpack",
+    "AWS",
+    "Kafka",
+    "Python",
+    "Databricks"
+  ],
+  "experience_years": 5.4,
+  "summary": "Software engineer with 5.4 years of experience across web, backend, and cloud systems. Strong fundamentals in software development and system design. My background is full-stack, but my comfort zone is the backend and the database. I've been keeping up with AI/ML at a self-learner level \u2014 taken some online courses, played with the OpenAI and Anthropic APIs, built a small RAG side project \u2014 but I haven't done it in a professional capacity yet. Open to roles where I can either deepen my software engineering work or, if the team is open to it, start contributing to ML-adjacent systems.",
+  "is_honeypot": false,
+  "explainability": {
+    "why_selected": "5.4 years experience in .NET Developer with AWS and Python. Strong recruiter responsiveness (81%), minor concern: 30-day notice.",
+    "strengths": [
+      "Highly responsive to recruiter outreach (81%)"
+    ],
+    "risks": [
+      "No immediate risk flags detected."
+    ],
+    "recruiter_notes": "Candidate has 5.4 years of experience and 7 skills. Notice period: 30 days. Expected salary: 15.3 LPA. Priority level: Medium.",
+    "confidence_score": 0.0
+  },
+  "chartData": {
+    "capability": 0.1056,
+    "growth": 0.45,
+    "behavior": 0.81,
+    "trust": 1.0,
+    "market": 0.153
+  }
+}

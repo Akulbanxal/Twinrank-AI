@@ -1,0 +1,42 @@
+{
+  "id": "CAND_0028793",
+  "name": "Myra Dutta",
+  "title": "Search Engineer",
+  "score": 0.442,
+  "skills": [
+    "SAP",
+    "Kubeflow",
+    "Embeddings",
+    "Haystack",
+    "YOLO",
+    "LoRA",
+    "PowerPoint",
+    "Learning to Rank",
+    "Information Retrieval",
+    "PEFT",
+    "QLoRA",
+    "PyTorch",
+    "pgvector",
+    "NLP",
+    "Weights & Biases"
+  ],
+  "experience_years": 7.2,
+  "summary": "Machine learning engineer with 7.2 years of experience building ML-powered features in production. Strong background in NLP, recommendation systems, and applied AI; comfortable across the ML stack from feature engineering through deployment. Recently, I shipped our first RAG-based feature this year and now own the eval framework for it. I care a lot about evaluation rigor \u2014 too many teams ship models without offline benchmarks they trust. My academic background is in CS/ML but my main learning has come from shipping real systems and seeing what holds up under production load. Open to senior IC roles in applied ML or AI engineering, ideally at product companies where I'd own a meaningful piece of the ML stack.",
+  "is_honeypot": false,
+  "explainability": {
+    "why_selected": "7.2 years experience in Search Engineer with SAP, Kubeflow, and Embeddings. Strong recruiter responsiveness (56%), minor concern: 120-day notice.",
+    "strengths": [],
+    "risks": [
+      "Notice period is relatively long (120 days)"
+    ],
+    "recruiter_notes": "Candidate has 7.2 years of experience and 15 skills. Notice period: 120 days. Expected salary: 31.7 LPA. Priority level: Medium.",
+    "confidence_score": 0.0
+  },
+  "chartData": {
+    "capability": 0.442,
+    "growth": 0.6,
+    "behavior": 0.57,
+    "trust": 0.85,
+    "market": 0.317
+  }
+}

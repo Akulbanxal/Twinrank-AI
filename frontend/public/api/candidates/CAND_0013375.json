@@ -1,0 +1,35 @@
+{
+  "id": "CAND_0013375",
+  "name": "Amit Mishra",
+  "title": "Backend Engineer",
+  "score": 0.1042,
+  "skills": [
+    "AWS",
+    "CNN",
+    "Python",
+    "MLflow",
+    "TTS",
+    "Java",
+    "Scrum",
+    "Snowflake"
+  ],
+  "experience_years": 4.3,
+  "summary": "Software / data professional with 4.3 years of experience building data pipelines, backend systems, and analytics infrastructure. I've been the engineer who makes ML possible by getting the data pipelines right; now I want to do more of the ML itself. My toolkit is solid on the data engineering side \u2014 Python, SQL, Spark, Airflow, warehouse design \u2014 and I've completed a couple of self-directed ML projects (Kaggle competitions, side projects fine-tuning small models). Interested in transitioning toward more AI/ML-focused work, ideally at a company where I can leverage my existing data-infra skills while learning modern ML practice.",
+  "is_honeypot": false,
+  "explainability": {
+    "why_selected": "4.3 years experience in Backend Engineer with AWS and Python. Strong recruiter responsiveness (55%), minor concern: 60-day notice.",
+    "strengths": [],
+    "risks": [
+      "No immediate risk flags detected."
+    ],
+    "recruiter_notes": "Candidate has 4.3 years of experience and 8 skills. Notice period: 60 days. Expected salary: 31.9 LPA. Priority level: Medium.",
+    "confidence_score": 0.0
+  },
+  "chartData": {
+    "capability": 0.1042,
+    "growth": 0.35833333333333334,
+    "behavior": 0.55,
+    "trust": 1.0,
+    "market": 0.319
+  }
+}

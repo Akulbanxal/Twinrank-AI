@@ -1,0 +1,36 @@
+{
+  "id": "CAND_0086142",
+  "name": "Deepak Rao",
+  "title": "QA Engineer",
+  "score": 0.1055,
+  "skills": [
+    "ETL",
+    "Python",
+    "FAISS",
+    "Kubernetes",
+    "gRPC",
+    "PostgreSQL",
+    "Django"
+  ],
+  "experience_years": 1.9,
+  "summary": "Software engineer with 1.9 years of experience across web, backend, and cloud systems. Strong fundamentals in software development and system design. I've worked across web frontends, REST APIs, and cloud deployments; comfortable in most parts of a typical SaaS stack. I've been keeping up with AI/ML at a self-learner level \u2014 taken some online courses, played with the OpenAI and Anthropic APIs, built a small RAG side project \u2014 but I haven't done it in a professional capacity yet. Open to roles where I can either deepen my software engineering work or, if the team is open to it, start contributing to ML-adjacent systems.",
+  "is_honeypot": false,
+  "explainability": {
+    "why_selected": "1.9 years experience in QA Engineer with Python and PostgreSQL. Strong recruiter responsiveness (83%), minor concern: 60-day notice.",
+    "strengths": [
+      "Highly responsive to recruiter outreach (83%)"
+    ],
+    "risks": [
+      "No immediate risk flags detected."
+    ],
+    "recruiter_notes": "Candidate has 1.9 years of experience and 7 skills. Notice period: 60 days. Expected salary: 6.2 LPA. Priority level: Medium.",
+    "confidence_score": 0.0
+  },
+  "chartData": {
+    "capability": 0.1055,
+    "growth": 0.15833333333333333,
+    "behavior": 0.83,
+    "trust": 1.0,
+    "market": 0.1
+  }
+}

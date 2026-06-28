@@ -1,0 +1,39 @@
+{
+  "id": "CAND_0058575",
+  "name": "Suresh Dutta",
+  "title": "AI Engineer",
+  "score": 0.5244,
+  "skills": [
+    "MLOps",
+    "Machine Learning",
+    "LlamaIndex",
+    "Time Series",
+    "Recommendation Systems",
+    "Pinecone",
+    "PyTorch",
+    "Hugging Face Transformers",
+    "Sentence Transformers",
+    "YOLO",
+    "Statistical Modeling",
+    "Reinforcement Learning"
+  ],
+  "experience_years": 5.8,
+  "summary": "Machine learning engineer with 5.8 years of experience building ML-powered features in production. Strong background in NLP, recommendation systems, and applied AI; comfortable across the ML stack from feature engineering through deployment. Recently, I shipped our first RAG-based feature this year and now own the eval framework for it. Along the way I've gotten comfortable with the operational side \u2014 A/B testing, drift monitoring, retraining schedules. My academic background is in CS/ML but my main learning has come from shipping real systems and seeing what holds up under production load. Open to senior IC roles in applied ML or AI engineering, ideally at product companies where I'd own a meaningful piece of the ML stack.",
+  "is_honeypot": false,
+  "explainability": {
+    "why_selected": "5.8 years experience in AI Engineer with MLOps, Machine Learning, and LlamaIndex. Strong recruiter responsiveness (69%), minor concern: 90-day notice.",
+    "strengths": [],
+    "risks": [
+      "Notice period is relatively long (90 days)"
+    ],
+    "recruiter_notes": "Candidate has 5.8 years of experience and 12 skills. Notice period: 90 days. Expected salary: 36.1 LPA. Priority level: Medium.",
+    "confidence_score": 0.0
+  },
+  "chartData": {
+    "capability": 0.5244,
+    "growth": 0.48333333333333334,
+    "behavior": 0.69,
+    "trust": 0.85,
+    "market": 0.361
+  }
+}

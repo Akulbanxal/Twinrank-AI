@@ -31,8 +31,7 @@ export default function Dashboard() {
   useEffect(() => {
     const fetchTopCandidates = async () => {
       try {
-        const apiUrl = process.env.NEXT_PUBLIC_API_URL || "http://localhost:8000";
-        const res = await fetch(`${apiUrl}/api/v1/jobs/candidates`);
+        const res = await fetch("/api/candidates.json");
         const data = await res.json();
         // Get top 3 candidates
         setCandidates(data.slice(0, 3));

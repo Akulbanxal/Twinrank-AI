@@ -1,0 +1,42 @@
+{
+  "id": "CAND_0032515",
+  "name": "Anjali Sen",
+  "title": "Machine Learning Engineer",
+  "score": 0.5337,
+  "skills": [
+    "MLflow",
+    "Milvus",
+    "Vector Search",
+    "QLoRA",
+    "Fine-tuning LLMs",
+    "BentoML",
+    "NLP",
+    "Deep Learning",
+    "OpenCV",
+    "Salesforce CRM",
+    "Elasticsearch",
+    "ETL",
+    "Machine Learning",
+    "PyTorch",
+    "Semantic Search"
+  ],
+  "experience_years": 5.1,
+  "summary": "Machine learning engineer with 5.1 years of experience building ML-powered features in production. Strong background in NLP, recommendation systems, and applied AI; comfortable across the ML stack from feature engineering through deployment. Recently, I shipped our first RAG-based feature this year and now own the eval framework for it. I care a lot about evaluation rigor \u2014 too many teams ship models without offline benchmarks they trust. My academic background is in CS/ML but my main learning has come from shipping real systems and seeing what holds up under production load. Open to senior IC roles in applied ML or AI engineering, ideally at product companies where I'd own a meaningful piece of the ML stack.",
+  "is_honeypot": false,
+  "explainability": {
+    "why_selected": "5.1 years experience in Machine Learning Engineer with MLflow, Milvus, and Vector Search. Strong recruiter responsiveness (54%), minor concern: 45-day notice.",
+    "strengths": [],
+    "risks": [
+      "No immediate risk flags detected."
+    ],
+    "recruiter_notes": "Candidate has 5.1 years of experience and 15 skills. Notice period: 45 days. Expected salary: 27.3 LPA. Priority level: Medium.",
+    "confidence_score": 0.0
+  },
+  "chartData": {
+    "capability": 0.5337,
+    "growth": 0.425,
+    "behavior": 0.54,
+    "trust": 0.85,
+    "market": 0.273
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "CAND_0012957",
+  "name": "Ritu Menon",
+  "title": "Search Engineer",
+  "score": 0.4902,
+  "skills": [
+    "RAG",
+    "PEFT",
+    "LangChain",
+    "ASR",
+    "Deep Learning",
+    "BentoML",
+    "BM25",
+    "Machine Learning",
+    "Redis",
+    "Statistical Modeling",
+    "Qdrant",
+    "OpenCV",
+    "Python",
+    "Embeddings",
+    "Fine-tuning LLMs"
+  ],
+  "experience_years": 4.9,
+  "summary": "Machine learning engineer with 4.9 years of experience building ML-powered features in production. Strong background in NLP, recommendation systems, and applied AI; comfortable across the ML stack from feature engineering through deployment. Recently, I led the team that migrated our keyword-search-based product to embedding-based retrieval. I've learned that most retrieval problems are actually evaluation problems in disguise. My academic background is in CS/ML but my main learning has come from shipping real systems and seeing what holds up under production load. Open to senior IC roles in applied ML or AI engineering, ideally at product companies where I'd own a meaningful piece of the ML stack.",
+  "is_honeypot": false,
+  "explainability": {
+    "why_selected": "4.9 years experience in Search Engineer with Python. Strong recruiter responsiveness (67%), minor concern: 120-day notice.",
+    "strengths": [],
+    "risks": [
+      "Notice period is relatively long (120 days)"
+    ],
+    "recruiter_notes": "Candidate has 4.9 years of experience and 15 skills. Notice period: 120 days. Expected salary: 29.9 LPA. Priority level: Medium.",
+    "confidence_score": 0.0
+  },
+  "chartData": {
+    "capability": 0.4902,
+    "growth": 0.4083333333333334,
+    "behavior": 0.67,
+    "trust": 0.85,
+    "market": 0.299
+  }
+}

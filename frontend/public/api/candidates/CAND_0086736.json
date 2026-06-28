@@ -1,0 +1,33 @@
+{
+  "id": "CAND_0086736",
+  "name": "Tanya Sharma",
+  "title": "QA Engineer",
+  "score": 0.1049,
+  "skills": [
+    "Tally",
+    "Java",
+    "LangChain",
+    "Figma",
+    "PostgreSQL",
+    "Photoshop"
+  ],
+  "experience_years": 1.3,
+  "summary": "Software engineer with 1.3 years of experience across web, backend, and cloud systems. Strong fundamentals in software development and system design. I've worked across web frontends, REST APIs, and cloud deployments; comfortable in most parts of a typical SaaS stack. I've been keeping up with AI/ML at a self-learner level \u2014 taken some online courses, played with the OpenAI and Anthropic APIs, built a small RAG side project \u2014 but I haven't done it in a professional capacity yet. Open to roles where I can either deepen my software engineering work or, if the team is open to it, start contributing to ML-adjacent systems.",
+  "is_honeypot": false,
+  "explainability": {
+    "why_selected": "1.3 years experience in QA Engineer with PostgreSQL. Strong recruiter responsiveness (56%), minor concern: 30-day notice.",
+    "strengths": [],
+    "risks": [
+      "No immediate risk flags detected."
+    ],
+    "recruiter_notes": "Candidate has 1.3 years of experience and 6 skills. Notice period: 30 days. Expected salary: 6.9 LPA. Priority level: Medium.",
+    "confidence_score": 0.0
+  },
+  "chartData": {
+    "capability": 0.1049,
+    "growth": 0.10833333333333334,
+    "behavior": 0.57,
+    "trust": 1.0,
+    "market": 0.1
+  }
+}

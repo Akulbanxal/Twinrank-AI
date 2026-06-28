@@ -1,0 +1,41 @@
+{
+  "id": "CAND_0018549",
+  "name": "Mira Verma",
+  "title": "Recommendation Systems Engineer",
+  "score": 0.4816,
+  "skills": [
+    "Computer Vision",
+    "Weaviate",
+    "Kubernetes",
+    "Elasticsearch",
+    "BigQuery",
+    "LangChain",
+    "Qdrant",
+    "Milvus",
+    "Fine-tuning LLMs",
+    "Speech Recognition",
+    "scikit-learn",
+    "Time Series",
+    "Prompt Engineering",
+    "OpenSearch"
+  ],
+  "experience_years": 6.8,
+  "summary": "Machine learning engineer with 6.8 years of experience building ML-powered features in production. Strong background in NLP, recommendation systems, and applied AI; comfortable across the ML stack from feature engineering through deployment. Recently, I led the team that migrated our keyword-search-based product to embedding-based retrieval. I've learned that most retrieval problems are actually evaluation problems in disguise. My academic background is in CS/ML but my main learning has come from shipping real systems and seeing what holds up under production load. Open to senior IC roles in applied ML or AI engineering, ideally at product companies where I'd own a meaningful piece of the ML stack.",
+  "is_honeypot": false,
+  "explainability": {
+    "why_selected": "6.8 years experience in Recommendation Systems Engineer with Computer Vision, Weaviate, and Kubernetes. Strong recruiter responsiveness (73%), minor concern: 60-day notice.",
+    "strengths": [],
+    "risks": [
+      "No immediate risk flags detected."
+    ],
+    "recruiter_notes": "Candidate has 6.8 years of experience and 14 skills. Notice period: 60 days. Expected salary: 33.2 LPA. Priority level: Medium.",
+    "confidence_score": 0.0
+  },
+  "chartData": {
+    "capability": 0.4816,
+    "growth": 0.5666666666666667,
+    "behavior": 0.73,
+    "trust": 0.85,
+    "market": 0.332
+  }
+}

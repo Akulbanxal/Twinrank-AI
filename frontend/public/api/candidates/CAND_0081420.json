@@ -1,0 +1,35 @@
+{
+  "id": "CAND_0081420",
+  "name": "Sneha Nair",
+  "title": "Analytics Engineer",
+  "score": 0.1058,
+  "skills": [
+    "Data Pipelines",
+    "AWS",
+    "MLflow",
+    "Redis",
+    "YOLO",
+    "Embeddings",
+    "Statistical Modeling",
+    "Spark"
+  ],
+  "experience_years": 2.2,
+  "summary": "Software / data professional with 2.2 years of experience building data pipelines, backend systems, and analytics infrastructure. Started my career in backend engineering and gradually moved closer to data \u2014 first dashboards, then ETL, now some basic ML. My toolkit is solid on the data engineering side \u2014 Python, SQL, Spark, Airflow, warehouse design \u2014 and I've completed a couple of self-directed ML projects (Kaggle competitions, side projects fine-tuning small models). Interested in transitioning toward more AI/ML-focused work, ideally at a company where I can leverage my existing data-infra skills while learning modern ML practice.",
+  "is_honeypot": false,
+  "explainability": {
+    "why_selected": "2.2 years experience in Analytics Engineer with AWS. Strong recruiter responsiveness (42%), minor concern: 30-day notice.",
+    "strengths": [],
+    "risks": [
+      "No immediate risk flags detected."
+    ],
+    "recruiter_notes": "Candidate has 2.2 years of experience and 8 skills. Notice period: 30 days. Expected salary: 13.6 LPA. Priority level: Medium.",
+    "confidence_score": 0.0
+  },
+  "chartData": {
+    "capability": 0.1058,
+    "growth": 0.18333333333333335,
+    "behavior": 0.42,
+    "trust": 1.0,
+    "market": 0.136
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "CAND_0065195",
+  "name": "Kiara Mukherjee",
+  "title": "Search Engineer",
+  "score": 0.5132,
+  "skills": [
+    "LLMs",
+    "BentoML",
+    "QLoRA",
+    "scikit-learn",
+    "Diffusion Models",
+    "Elasticsearch",
+    "Hugging Face Transformers",
+    "Qdrant",
+    "Django",
+    "MLOps",
+    "pgvector",
+    "Learning to Rank",
+    "LlamaIndex"
+  ],
+  "experience_years": 5.1,
+  "summary": "Machine learning engineer with 5.1 years of experience building ML-powered features in production. Strong background in NLP, recommendation systems, and applied AI; comfortable across the ML stack from feature engineering through deployment. Recently, I led the team that migrated our keyword-search-based product to embedding-based retrieval. I care a lot about evaluation rigor \u2014 too many teams ship models without offline benchmarks they trust. My academic background is in CS/ML but my main learning has come from shipping real systems and seeing what holds up under production load. Open to senior IC roles in applied ML or AI engineering, ideally at product companies where I'd own a meaningful piece of the ML stack.",
+  "is_honeypot": false,
+  "explainability": {
+    "why_selected": "5.1 years experience in Search Engineer with LLMs, BentoML, and QLoRA. Strong recruiter responsiveness (80%), minor concern: 45-day notice.",
+    "strengths": [],
+    "risks": [
+      "No immediate risk flags detected."
+    ],
+    "recruiter_notes": "Candidate has 5.1 years of experience and 13 skills. Notice period: 45 days. Expected salary: 42.4 LPA. Priority level: Medium.",
+    "confidence_score": 0.0
+  },
+  "chartData": {
+    "capability": 0.5132,
+    "growth": 0.425,
+    "behavior": 0.8,
+    "trust": 0.85,
+    "market": 0.424
+  }
+}
