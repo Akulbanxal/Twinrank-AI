@@ -104,7 +104,7 @@ Directly run services locally to view the dynamic dashboard.
    npm run dev
    ```
 4. Access the premium recruiter console at: [http://localhost:3000](http://localhost:3000).
-
+5. Demo Link:- https://akulbanxal.github.io/Twinrank-AI/ 
 ---
 
 ## 7. Recruiter Console Screenshots
